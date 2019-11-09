@@ -1,0 +1,30 @@
+{
+  "name": "kiranpm",
+  "version": "0.0.1",
+  "description": "NPM en Español para Discord",
+  "main": "./lib/kiranpm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hixzxer/kiranpm.git"
+  },
+  "keywords": [
+    "js",
+    "discord"
+  ],
+  "author": "Hizer",
+  "license": "MIT",
+  "dependencies": {
+  "discord.js": "^11.5.1"
+  },
+  "bugs": {
+    "url": "https://github.com/hixzxer/kiranpm/issues"
+  },
+  "homepage": "https://github.com/hixzxer/kiranpm#readme",
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {}
+}
